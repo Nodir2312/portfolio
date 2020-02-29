@@ -9,8 +9,8 @@ h1,h2{
 }
 a{
 	text-decoration: none;
+	color: green;
 }
 .websites{
-	color: green;
 	font-size: 25px;
 }
