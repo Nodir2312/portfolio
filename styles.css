@@ -7,3 +7,10 @@ body{
 h1,h2{
 	color: orange;
 }
+a{
+	text-decoration: none;
+}
+.websites{
+	color: green;
+	font-size: 25px;
+}
